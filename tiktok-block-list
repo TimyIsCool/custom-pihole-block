@@ -1,4 +1,5 @@
 # Custom block list :D
+# Raw: https://raw.githubusercontent.com/TimyIsCool/custom-pihole-block/main/tiktok-block-list
 
 0.0.0.0 api2-16-h2.musical.ly.edgekey.net
 0.0.0.0 bytedance.map.fastly.net
